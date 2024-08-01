@@ -3,7 +3,7 @@ import "./global.css";
 // interface LayoutProps{
 //   children: ReactNode
 // }
-import NavBar from "../components/navbar";
+import NavBar from "../components/Navbar";
 import { orbitron } from "./font";
 
 // export const metadata = {
