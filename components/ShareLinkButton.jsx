@@ -12,7 +12,6 @@ export default function ShareLinkButton() {
       setClicked(false);
     }, 1500);
   };
-  console.log("clicked!", clicked);
 
   return (
     <button
